@@ -1,1 +1,2 @@
-# classpirategame
+# PiratesInvasion
+pirates invasion game
